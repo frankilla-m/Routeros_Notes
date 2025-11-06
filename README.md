@@ -4,7 +4,7 @@
 
 RouterOS 路由器的安装以及折腾手记。
 
-- RouterOS 适用版本：7.15 Stable
+- RouterOS 适用版本：7.19 Stable
 
 
 - 演示机：
@@ -52,5 +52,5 @@ A.  [命令行配置脚本](./A.命令行配置脚本.md)
 
 1.  本系列文章涉及的部分参数需要手动调整来符合切实使用需求。
 2.  随着 RouterOS 系统的迭代更新，截图中的内容和实际页面显示可能存在差异。
-3.  此文来源于 Gitee [狐狸 Nomad.](https://gitee.com/callmer/routeros_toss_notes)
+3.  如需引用，请注明本文出处。
 
